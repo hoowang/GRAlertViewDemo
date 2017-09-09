@@ -2,8 +2,8 @@
 //  SRAlertView.m
 //  SRAlertView
 //
-//  Created by https://github.com/guowilling on 16/7/8.
-//  Copyright © 2016年 SR. All rights reserved.
+//  Created by https://github.com/hoowang/GRAlertViewDemo16/7/8.
+//  Copyright © 2016年 hooge. All rights reserved.
 //
 
 #import "GRAlertView.h"
