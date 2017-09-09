@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "GRAlertView"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "custom pop view support blur"
   s.homepage     = "https://github.com/hoowang/GRAlertViewDemo"
   s.source       = { :git => "https://github.com/hoowang/GRAlertViewDemo.git", :tag => "{s.version}" }
