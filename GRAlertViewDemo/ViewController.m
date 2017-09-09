@@ -82,8 +82,8 @@
     contentView.delegate = self;
     alertView.topImageName = @"illustrationBalloon";
     alertView.animationStyle = style;
-    _alertView = alertView;
     [alertView present:self.navigationController];
+    _alertView = alertView;
 
     //[alertView presentOnWindow];
 }
