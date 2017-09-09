@@ -11,8 +11,8 @@
 @implementation SexualOrientationContentView
 
 - (instancetype)init{
-    NSArray *items = @[@"来个妹纸", @"来个汉纸", @"都行/不明", @"取消"];
-    self = [super initWithItems:items Title:@"你的恋爱倾向"];
+    NSArray *items = @[@"中秋节", @"元旦节", @"劳动节", @"取消"];
+    self = [super initWithItems:items Title:@"哪个假期最长"];
     return self;
 }
 
