@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "GRAlertView"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "custom pop view support blur"
   s.homepage     = "https://github.com/hoowang/GRAlertViewDemo"
   s.source       = { :git => "https://github.com/hoowang/GRAlertViewDemo.git", :tag => "{s.version}" }
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '6.0'
   s.source_files  = "GRAlertView/**/*.{h,m}"
   s.exclude_files = "GRAlertView/FXBlurView/*.{h,m}"
-  # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  s.screenshots  = "https://github.com/hoowang/GRAlertViewDemo/blob/master/GRAlertViewAnimation.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
