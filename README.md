@@ -1,6 +1,6 @@
 # GRAlertView
 带有blur效果的弹窗组件~~
-![image](https://github.com/hoowang/GRAlertViewDemo/blob/master/GRAlertViewAnimation.gif)  
+![image](https://github.com/hoowang/GRAlertViewDemo/blob/master/DemoImage.jpg)  
 
 ## 系统要求
 - iOS 6.0
